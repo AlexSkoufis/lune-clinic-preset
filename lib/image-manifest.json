@@ -1,0 +1,50 @@
+{
+ "exterior": {
+  "w": 2400,
+  "h": 3600,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADQBQCdASoYACQAPuVcp02pJSOiNVgMASAciWUAqlwWRw41z0AwhQixJjRYPpReTZ5TthZDPMwAAP7VELtY0Q7vOmAZag+ul7Xin2e1g1RN4lTdzVGltLuWLFhNkywQqnnON+nGR9WZRsEacEnShTOXfZc3IO1UFdE1BD3FUxCkiUGG8KewDUtZAAA="
+ },
+ "lounge": {
+  "w": 3333,
+  "h": 2500,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwBACdASoYABIAPuVepU2pJSOiMAwBIByJaQAAW+yJ25M9iVBXn/sYotCggAD+sUWXq9iEYyyDWKlChzq4bQV1s9o25/e2A4hxJMZ7OvCAAA=="
+ },
+ "recovery": {
+  "w": 2400,
+  "h": 3397,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwBQCdASoYACIAPulgp02pJaOiMBqtUSAdCWUAwNw1v2lfDIpG/p4YdM4vYzWW3xzod0nB0B2wAAD+u61n2yLsdGc/a3UPYIxjgGWypU1zh9Py9tXzZ6yv+c74XYo69xzTqbC/zys+Qu+x2rKa3BNJazEbIqiLudagTDEAiqZkpy6p1QAAAA=="
+ },
+ "waiting": {
+  "w": 2400,
+  "h": 3000,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2400
+  ],
+  "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBQCdASoYAB4APu1qq0+ppiOiMBgIATAdiWcAzFg04a6Htrmm4l5pssSP/lFtRhiV/pxZwAD3nsLsafoZzWQFh8/pGHT5xCYtIDVn9ZPOvica32SYBhy1kHDRqoQnWyx24hXNrkv/dAAAAAA="
+ }
+}
